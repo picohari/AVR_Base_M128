@@ -16,7 +16,7 @@ Simple board with ATmega128 microcontroller and breakout connectors for each por
 * Additional +5V and GND pins
 * Holes for easy mounting
 
-![ATmega base schematic](https://raw.githubusercontent.com/picohari/AVR_Base_M128/master/images/eagle-avr-base.png)
+![ATmega base schematic](https://raw.githubusercontent.com/picohari/AVR_Base_M128/master/images/board.png)
 
 
 ## Software:
